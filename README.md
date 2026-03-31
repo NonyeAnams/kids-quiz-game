@@ -15,4 +15,4 @@ An interactive quiz game designed for young learners.
 - JavaScript
 
 ## Live Demo
-https://yourusername.github.io/kids-quiz-game/
+https://nonyeanams.github.io/kids-quiz-game/
