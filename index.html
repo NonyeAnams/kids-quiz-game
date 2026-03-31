@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Fun Quiz Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="quiz-container">
+    <h1>🎉 Fun Quiz for Kids</h1>
+
+    <select id="difficulty">
+        <option value="beginner">Beginner</option>
+        <option value="intermediate">Intermediate</option>
+    </select>
+
+    <button id="startBtn">Start Quiz</button>
+
+    <div id="progress"></div>
+    <div id="timer"></div>
+
+    <div id="question"></div>
+    <div id="answers"></div>
+    <div id="feedback"></div>
+
+    <button id="nextBtn">Next Question</button>
+    <button id="restartBtn" style="display:none;">Restart Quiz</button>
+</div>
+
+<!-- Sounds -->
+<audio id="correctSound" src="https://www.soundjay.com/buttons/sounds/button-3.mp3"></audio>
+<audio id="wrongSound" src="https://www.soundjay.com/buttons/sounds/button-10.mp3"></audio>
+
+<script src="script.js"></script>
+</body>
+</html>

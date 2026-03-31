@@ -1,0 +1,36 @@
+[
+  {
+    "question": "What is 2 + 2?",
+    "answers": ["3", "4", "5"],
+    "correct": "4",
+    "level": "beginner"
+  },
+  {
+    "question": "What color is the sky?",
+    "answers": ["Blue", "Green", "Red"],
+    "correct": "Blue",
+    "level": "beginner"
+  },
+  {
+    "question": "Which animal says 'Meow'?",
+    "answers": ["Dog", "Cat", "Cow"],
+    "correct": "Cat",
+    "level": "beginner"
+  },
+  {
+    "question": "What does HTML stand for?",
+    "answers": [
+      "Hyper Text Markup Language",
+      "High Tech Machine Language",
+      "Home Tool Markup Language"
+    ],
+    "correct": "Hyper Text Markup Language",
+    "level": "intermediate"
+  },
+  {
+    "question": "Which is a JavaScript framework?",
+    "answers": ["Django", "React", "Flask"],
+    "correct": "React",
+    "level": "intermediate"
+  }
+]
